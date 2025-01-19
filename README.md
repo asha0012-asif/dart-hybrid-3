@@ -1,4 +1,4 @@
-###### Hybrid Status: 🚧 WIP
+###### Hybrid Status: 🚧 Complete
 
 # Hybrid Exercise 3
 
